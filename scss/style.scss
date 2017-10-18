@@ -345,4 +345,11 @@
         min-width: 11rem;   
     }
 
+    // Wordpress customizations
+
+    .sidebar-left, .sidebar-center, .sidebar-right {
+        font-family: $content-font;
+        font-size: $content-font-size;
+    }
+
 // #####  IDS AND CLASSES END #####

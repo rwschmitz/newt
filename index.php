@@ -1,7 +1,7 @@
 <?php get_header(); ?>
-<div class="banner"></div>
+<div id="home" class="banner"></div>
 
-<div id="home" class="container">
+<div class="container">
     <div class="row pt-5 pb-2">
         <div class="col-xl-12 d-flex justify-content-center">
             <h1 class="text-center">

@@ -31,15 +31,15 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 
 <div class="newt-sidebar-container">
 
-<aside class="newt-sidebar-left">
+<aside class="sidebar-left">
 	<?php dynamic_sidebar( 'newt-sidebar-left-id' ); ?>
 </aside>
 
-<aside class="newt-sidebar-center">
+<aside class="sidebar-center">
 	<?php dynamic_sidebar( 'newt-sidebar-center-id' ); ?>
 </aside>
 
-<aside class="newt-sidebar-right">
+<aside class="sidebar-right">
 	<?php dynamic_sidebar( 'newt-sidebar-right-id' ); ?>
 </aside>
 
