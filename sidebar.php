@@ -39,7 +39,7 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 
         </div> <!-- End col -->
 
-        <div class="col-xl-4">
+        <div class="col-xl-4 d-flex justify-content-center">
 
             <aside class="sidebar-center">
                 <?php dynamic_sidebar( 'newt-sidebar-center-id' ); ?>
