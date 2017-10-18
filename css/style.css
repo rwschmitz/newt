@@ -47,7 +47,7 @@ ol {
   color: #fff8dc;
   border: none;
   cursor: pointer;
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.2rem;
   transition-duration: 250ms;
   transition-timing-function: ease-in-out; }
@@ -60,7 +60,7 @@ ol {
   color: #fff8dc;
   border: none;
   cursor: pointer;
-  font-family: "Antic", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1rem;
   transition-duration: 250ms;
   transition-timing-function: ease-in-out; }
@@ -79,22 +79,22 @@ ol {
   height: auto; }
 
 .header {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.875rem;
   color: #ff033a; }
 
 .subheader {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.25rem;
   color: #ff033a; }
 
 .content {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1rem;
   color: #fff8dc; }
 
 .content-inverse {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1rem;
   color: #141516; }
 
@@ -123,12 +123,12 @@ ol {
   outline: 0; }
 
 .intro {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 3.125rem;
   color: #fff8dc; }
 
 .subintro {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 1.875rem;
   color: #fff8dc; }
 
@@ -157,7 +157,7 @@ ol {
   opacity: 1; }
 
 .project-name {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 0.75rem;
   color: #fff8dc;
   border-top: 1px solid #03b8ff;
@@ -215,7 +215,7 @@ ol {
   color: #03b8ff; }
 
 .copyright {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 0.625rem;
   color: #fff8dc; }
 
@@ -247,7 +247,7 @@ ol {
   color: #141516; }
 
 .dropdown-menu {
-  font-family: "Julius Sans One", sans-serif;
+  font-family: "Raleway", sans-serif;
   background-color: transparent;
   color: #fff8dc;
   min-width: 11rem; }
