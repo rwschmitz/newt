@@ -16,7 +16,7 @@ function newt_scripts() {
 	wp_enqueue_style('bootstrap-v4', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css');
 	wp_enqueue_style('raleway-font', 'https://fonts.googleapis.com/css?family=Raleway');
 	wp_enqueue_script('popper', 'https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js');
-	wp_enqueue_script('bootstrap-js', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js')
+	wp_enqueue_script('bootstrap-js', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js');
 }
 
 add_action( 'wp_enqueue_scripts', 'newt_scripts');
