@@ -68,7 +68,7 @@ ol {
 .nav-drop-btn:focus {
   outline: 0; }
 
-.landing {
+.banner {
   background-image: linear-gradient(black, rgba(0, 0, 0, 0.5)), url("../imgs/peekles.jpg");
   height: 100%;
   background-position: center;
