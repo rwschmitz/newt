@@ -31,7 +31,7 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 
 <div id="contact" class="container">
     <div class="row pt-5">
-        <div class="col-xl-4">
+        <div class="col-xl-4 text-justify">
 
             <aside class="sidebar-left">
                 <?php dynamic_sidebar( 'newt-sidebar-left-id' ); ?>
@@ -49,7 +49,7 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 
         <div class="col-xl-4">
 
-            <aside class="sidebar-right">
+            <aside class="sidebar-right text-justify">
                 <?php dynamic_sidebar( 'newt-sidebar-right-id' ); ?>
             </aside>
 
