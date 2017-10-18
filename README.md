@@ -1,2 +1,2 @@
-# kuhn-lawfirm
-Website for the Kuhn lawfirm
+# newt
+Custom Wordpress theme, "newt" developed from scratch.
