@@ -15,7 +15,7 @@
 </head>
 
     <!-- Navigation start -->
-    <div class="no-gutters pb-5">
+    <div class="no-gutters">
         <nav class="nav fixed-top navbar-expand-lg nav-fill nav-style">
 
             <!-- Navbar brand -->

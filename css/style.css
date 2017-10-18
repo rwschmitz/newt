@@ -47,15 +47,15 @@ h3 {
   height: auto; }
 
 .nav-style {
-  background-color: #03b8ff; }
+  background-color: #fff8dc; }
 
 .nav-style a {
-  color: #fff8dc;
+  color: #141516;
   text-decoration: none; }
 
 .nav-btn {
   background-color: transparent;
-  color: #fff8dc;
+  color: #141516;
   border: none;
   cursor: pointer;
   font-family: "Raleway", sans-serif;
@@ -68,7 +68,7 @@ h3 {
 
 .nav-drop-btn {
   background-color: transparent;
-  color: #fff8dc;
+  color: #141516;
   border: none;
   cursor: pointer;
   font-family: "Raleway", sans-serif;
