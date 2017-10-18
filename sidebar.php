@@ -29,21 +29,33 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 ?>
 
 
-<div class="newt-sidebar-container">
+<div class="container">
+    <div class="row">
+        <div class="col-xl-4">
 
-<aside class="sidebar-left">
-	<?php dynamic_sidebar( 'newt-sidebar-left-id' ); ?>
-</aside>
+            <aside class="sidebar-left">
+                <?php dynamic_sidebar( 'newt-sidebar-left-id' ); ?>
+            </aside>
 
-<aside class="sidebar-center">
-	<?php dynamic_sidebar( 'newt-sidebar-center-id' ); ?>
-</aside>
+        </div> <!-- End col -->
 
-<aside class="sidebar-right">
-	<?php dynamic_sidebar( 'newt-sidebar-right-id' ); ?>
-</aside>
+        <div class="col-xl-4">
 
-</div>
+            <aside class="sidebar-center">
+                <?php dynamic_sidebar( 'newt-sidebar-center-id' ); ?>
+            </aside>
+
+        </div> <!-- End col -->
+
+        <div class="col-xl-4">
+
+            <aside class="sidebar-right">
+                <?php dynamic_sidebar( 'newt-sidebar-right-id' ); ?>
+            </aside>
+
+        </div> <!-- End col -->
+    </div> <!-- End row -->
+</div> <!-- End container -->
 
 
 
