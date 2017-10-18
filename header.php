@@ -38,5 +38,5 @@
         </nav>
     </div>
     <!-- Navigation end -->
-<?php wp_nav_menu(); ?>
+
 </nav>
