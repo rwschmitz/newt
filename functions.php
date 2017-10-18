@@ -14,7 +14,7 @@ function newt_scripts() {
 	wp_enqueue_style( 'custom-css', get_template_directory_uri() . '/css/style.css');
 	wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 	wp_enqueue_style('bootstrap-v4', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css');
-	wp_enqueue_style('raleway-font', 'https://fonts.googleapis.com/css?family=Raleway')
+	wp_enqueue_style('raleway-font', 'https://fonts.googleapis.com/css?family=Raleway');
 }
 
 add_action( 'wp_enqueue_scripts', 'newt_scripts');
