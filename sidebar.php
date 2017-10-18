@@ -29,7 +29,7 @@ if ( ! is_active_sidebar( 'newt-sidebar-right-id' ) ) {
 ?>
 
 
-<div class="container">
+<div id="contact" class="container">
     <div class="row pt-5">
         <div class="col-xl-4">
 

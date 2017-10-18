@@ -32,7 +32,6 @@
             <div class="collapse navbar-collapse" id="navbarInfo">
                 <a class="nav-link nav-item" data-toggle="collapse" data-target=".navbar-collapse.show"><button id="goHome" class="nav-btn underline">Home <span class="sr-only">(current)</span></button></a>
                 <a class="nav-link nav-item" data-toggle="collapse" data-target=".navbar-collapse.show"><button id="goAbout" class="nav-btn underline">About</button></a>
-                <a class="nav-link nav-item" data-toggle="collapse" data-target=".navbar-collapse.show"><button id="goProjects" class="nav-btn underline">Projects</button></a>
                 <a class="nav-link nav-item" data-toggle="collapse" data-target=".navbar-collapse.show"><button id="goContact" class="nav-btn underline">Contact</button></a>
             </div>
         </nav>
