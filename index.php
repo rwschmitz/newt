@@ -20,7 +20,7 @@
 
   <!-- About start -->
   <div id="about" class="container">
-        <div class="row">
+        <div class="row pb-5">
             <div class="d-flex justify-content-center col-xl-12 header py-5">
                 About
             </div> <!-- End col -->
