@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-<div class="banner">what</div>
+<div class="banner"></div>
 <div class="main-content">
 
 
