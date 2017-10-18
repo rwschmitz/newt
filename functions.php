@@ -13,6 +13,7 @@ add_action('init', 'modify_wordpress_jquery');
 function newt_scripts() {
 	wp_enqueue_style( 'newt-style', get_stylesheet_uri() );
 	wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+	wp_enqueue_style('bootstrap 4.0', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css');
 }
 
 add_action( 'wp_enqueue_scripts', 'newt_scripts');
