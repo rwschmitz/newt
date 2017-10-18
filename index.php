@@ -2,18 +2,21 @@
 <div class="banner"></div>
 
 <div id="home" class="container">
-    <div class="row">
+    <div class="row pt-5 pb-2">
         <div class="col-xl-12 d-flex justify-content-center">
             <h1 class="text-center">
                 Recreating parts of my personal website adhearing to Wordpress standards.
             </h1>
+        </div>
+    </div>
 
+    <div class="row">
+        <div class="col-xl-12 d-flex justify-content-center">
             <h3 class="text-center">
                 Updated:  10-18-2017
             </h3>
-        </div>
+         </div>
     </div>
-</div>
 
   <!-- About start -->
   <div id="about" class="container">
