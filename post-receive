@@ -1,0 +1,3 @@
+#!/bin/sh
+GIT_WORK_TREE=/home/rudojqwy/newtpress.com/rudolph-wp-demos/wp-content/themes/newt git checkout -f
+
