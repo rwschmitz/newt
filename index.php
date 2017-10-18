@@ -1,6 +1,19 @@
 <?php get_header(); ?>
 <div class="banner"></div>
 
+<div id="home" class="container">
+    <div class="row">
+        <div class="col-xl-12 d-flex justify-content-center">
+            <h1 class="text-center">
+                Recreating parts of my personal website adhearing to Wordpress standards.
+            </h1>
+
+            <h3 class="text-center">
+                Updated:  10-18-2017
+            </h3>
+        </div>
+    </div>
+</div>
 
   <!-- About start -->
   <div id="about" class="container">
@@ -36,130 +49,11 @@
             </div> <!-- End col -->
         </div> <!-- End row -->
 
-        <div class="row">
-            <div class="d-flex justify-content-center col-xl-12 py-5 subheader">
-                Skills
-            </div> <!-- End col -->
-        </div> <!-- End row -->
-
-        <div class="row">
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-start icon-html5 icons px-2"></i>
-                    <div class="text-center py-2">
-                        HTML5
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-center icon-css3 icons px-2"></i>
-                    <div class="text-center py-2">
-                        CSS3
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-end icon-sass icons px-2"></i>
-                    <div class="text-center py-2">
-                        Sass
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-start icon-javascript icons px-2 ml-3 ml-xl-2"></i>
-                    <div class="text-center py-2">
-                        JavaScript
-                    </div>
-                </div>
-            </div> <!-- End col -->
-        </div> <!-- End row -->
-
-        <div class="row">
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-center icon-jquery icons px-2"></i>
-                    <div class="text-center py-2">
-                        jQuery
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-end icon-nodejs icons px-2"></i>
-                    <div class="text-center py-2">
-                        node.js
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-start icon-grunt icons px-2 ml-xl-1"></i>
-                    <div class="text-center py-2">
-                        Grunt
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-center icon-php icons px-2"></i>
-                    <div class="text-center py-2">
-                        PHP
-                    </div>
-                </div>
-            </div> <!-- End col -->
-        </div> <!-- End row -->
-
-        <div class="row">
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-end icon-bootstrap icons px-2 mr-2 mr-xl-2"></i>
-                    <div class="text-center py-2">
-                        Bootstrap
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-start icon-git icons px-2"></i>
-                    <div class="text-center py-2">
-                        Git
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-center icon-wordpress icons px-2"></i>
-                    <div class="text-center py-2">
-                        Wordpress
-                    </div>
-                </div>
-            </div> <!-- End col -->
-
-            <div class="d-flex justify-content-center col-3 col-xl-3 py-3">
-                <div class="content">
-                    <i class="d-flex justify-content-end icon-apache icons px-2"></i>
-                    <div class="text-center py-2">
-                        Apache
-                    </div>
-                </div>
-            </div> <!-- End col -->
-        </div> <!-- End row -->
     </div> <!-- End container -->
     <!-- About end -->
 
 
-    <h1>new test</h1>
-</div>
+
+
 
 <?php get_footer(); ?>

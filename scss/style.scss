@@ -62,6 +62,18 @@
         padding-left: 1rem;
     }
 
+    h1 {
+        color: $white;
+        font-family: $header-font;
+        font-size: $header-font-size;
+    }
+
+    h3 {
+        color: $white;
+        font-family: $subheader-font;
+        font-size: $subheader-font-size;
+    }
+
     .nav-logo {
         max-width: 50%;
         height: auto;

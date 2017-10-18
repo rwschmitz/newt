@@ -32,6 +32,16 @@ html, body {
 ol {
   padding-left: 1rem; }
 
+h1 {
+  color: #fff8dc;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.875rem; }
+
+h3 {
+  color: #fff8dc;
+  font-family: "Raleway", sans-serif;
+  font-size: 1.25rem; }
+
 .nav-logo {
   max-width: 50%;
   height: auto; }
