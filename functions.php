@@ -11,7 +11,7 @@ function modify_wordpress_jquery(){
 add_action('init', 'modify_wordpress_jquery');
 
 function newt_scripts() {
-	wp_enqueue_style( 'custom-css', get_stylesheet_uri() . '/css/style.css');
+	wp_enqueue_style( 'custom-css', get_stylesheet_uri());
 	wp_enqueue_style('font-awesome', '//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 	wp_enqueue_style('bootstrap-v4', 'https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css');
 }
